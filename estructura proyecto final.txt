@@ -1,0 +1,9 @@
+documento principal
+[
+codigo fuente primero 
+enlace del video],
+[documentacion externa {Markdown fat: google drive, compartir y agregar enlace del recurso}
+
+*Como plasmar cada uno de los resultados, a la par del proceso
+
+* que queremos del programa, quienes intervienen
