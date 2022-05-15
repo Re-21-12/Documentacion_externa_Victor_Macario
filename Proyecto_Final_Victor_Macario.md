@@ -366,5 +366,4 @@ FinPara
 Escribir " "; //Salto de linea
 FinPara
 ~~~
-Sum
-aaaaaaaaaaaaaaaaaaaaa
+
